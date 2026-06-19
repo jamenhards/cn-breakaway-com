@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://jamenhards.github.io/cn-breakaway-com/sitemap.xml
